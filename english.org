@@ -1,0 +1,21 @@
+#+TITLE: Curriculum Vitæ
+#+LANGUAGE: en
+#+AUTHOR: Amir Dekel
+
+# Choose setup file:
+# #+SETUPFILE: setup-md-website.org
+#+SETUPFILE: setup-latex.org
+
+# Select whether to include personal info section
+#+INCLUDE: "info.org"
+
+# Select sections and order to include
+
+#+INCLUDE: "en/academic.org"
+#+INCLUDE: "en/artistic.org"
+#+INCLUDE: "en/computers.org"
+#+INCLUDE: "en/languages.org"
+# #+INCLUDE: "en/work-experience.org"
+# #+INCLUDE: "en/computers-short.org"
+# #+INCLUDE: "en/activities.org"
+

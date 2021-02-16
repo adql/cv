@@ -1,0 +1,10 @@
+# Setup file for LaTeX export of the CV.
+
+#+LATEX_COMPILER: xelatex
+
+#+OPTIONS: num:nil toc:nil author:nil date:nil
+
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [11pt,a4paper]
+
+#+LATEX_HEADER: \usepackage{setup}

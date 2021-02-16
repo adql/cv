@@ -1,0 +1,76 @@
+%% Setup file for LaTeX export of the CV.
+
+\usepackage[hscale=0.75, vscale=0.8]{geometry}
+
+
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Linux Libertine}
+\setsansfont[Ligatures=TeX]{Linux Biolinum}
+
+%% %% Setting fonts
+%% \renewcommand*\rmdefault{ppl}
+%% \renewcommand*\sfdefault{pag}
+%% \renewcommand*{\familydefault}{\sfdefault}
+
+%% Styling lists
+\usepackage{enumitem}
+\setlist{noitemsep,itemsep=0.5em}
+\setlist[description]{leftmargin=5cm, style=multiline}
+
+%% Defining colors
+\usepackage{xcolor}
+\definecolor{text-color}{gray}{0.3}
+\definecolor{url-color}{rgb}{0.2,0.3,0.7}
+\definecolor{section-color}{rgb}{0.2,0.6,0.1}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\@maketitle}% <cmd>
+  {\@title}% <search>
+  {\color{\@titlecolor}\@title}% <replace>
+  {}{}% <success><failure>
+\newcommand{\@titlecolor}{section-color}
+%% \newcommand{\titlecolor}[1]{\renewcommand{\@titlecolor}{#1}}
+\makeatother
+
+%% Setting default color and links styling
+\color{text-color}
+\hypersetup{pdfborder={0 0 0 [1 0]}, colorlinks=true, urlcolor=url-color}
+
+%% Styling page
+\usepackage{fancyhdr}
+\pagestyle{fancyplain}
+\fancyhf{}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+%% %% Styling headings
+%% \usepackage{sectsty}
+%% \sectionfont{\sffamily\fontseries{b}\fontshape{sc}\fontsize{0.5cm}{0.4cm}\selectfont\sectionrule{2ex}{0pt}{-1ex}{0.5pt}}
+%% \subsectionfont{\sffamily\selectfont\color{section-color}}
+
+%% Styling headings
+\usepackage{titlesec}
+%% \titleformat{\section}{%
+%%   \rmfamily\fontseries{b}%%\fontshape{sc}
+%%   \Large
+%%   %%\fontsize{0.5cm}{0.4cm}
+%%   \selectfont
+%%   \color{section-color}}{}{}{}[\color{text-color}%% \vspace{0.5ex}
+%%   {\titlerule[0.5pt]}]
+\titleformat{\section}{%
+  \titlerule\vspace{.8ex}
+  \rmfamily\itshape\Large\color{section-color}
+}{}{}{}
+\titleformat*{\subsection}{\sffamily\fontseries{b}\selectfont}
+\newcommand{\sectionbreak}{%
+  \addpenalty{-1000}%
+}
+
+\raggedright
+
+\usepackage{pdfpages}
+\usepackage{hyperref}
+\usepackage{microtype}
+
+\usepackage[shortcuts]{extdash}
