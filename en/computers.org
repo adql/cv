@@ -2,8 +2,8 @@
   
 ** Programming Languages
 
-   - Some command of Python, JavaScript, LISPs (Clojure,
-     Racket/Scheme); basic acquaintance with Java, C/++ and others.
+   - Some command of Python, JavaScript, LISPs ([[https://github.com/adql/cjube][Clojure]],
+     [[https://github.com/adql/spitter][Racket]]/Scheme); basic acquaintance with Java, C/++ and others.
    - Some experience in creative computation ([[https://openprocessing.org/user/28888][Processing/P5.js]],
      /[[https://github.com/adql/nature-of-code-cw][The Nature of Code]]/, SuperCollider, Extempore).
    - Basic command of data science practices with Python and R.
@@ -11,7 +11,7 @@
 
 ** Theory
 
-   - General acquaintance with paradigms of programming and algorithms.
+   - General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming and algorithms.
    - Basic knowledge in machine learning and statistics.
 
 ** CMS and Databases
