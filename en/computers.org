@@ -2,8 +2,9 @@
   
 ** Programming Languages
 
-   - Some command of Python, JavaScript, LISPs ([[https://github.com/adql/cjube][Clojure]],
-     [[https://github.com/adql/spitter][Racket]]/Scheme); basic acquaintance with Java, C/++ and others.
+   - Some command of Haskell, LISPs ([[https://github.com/adql/cjube][Clojure]], Emacs, [[https://github.com/adql/spitter][Racket]]/Scheme),
+     Python, JavaScript; basic acquaintance with Java, C/++ and
+     others.
    - Some experience in creative computation ([[https://openprocessing.org/user/28888][Processing/P5.js]],
      /[[https://github.com/adql/nature-of-code-cw][The Nature of Code]]/, SuperCollider, Extempore).
    - Basic command of data science practices with Python and R.
