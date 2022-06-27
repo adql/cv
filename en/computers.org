@@ -2,7 +2,7 @@
   
 ** Programming Languages
 
-   - Some command of Haskell, LISPs ([[https://github.com/adql/cjube][Clojure]], Emacs, [[https://github.com/adql/spitter][Racket]]/Scheme),
+   - Some command of Haskell, LISPs ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]], [[https://github.com/adql/spitter][Racket]]/Scheme),
      Python, JavaScript; basic acquaintance with Java, C/++ and
      others.
    - Some experience in creative computation ([[https://openprocessing.org/user/28888][Processing/P5.js]],
