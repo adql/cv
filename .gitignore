@@ -1,3 +1,5 @@
 auto
 *.pdf
 *.tex
+exports/
+cv.bundle
