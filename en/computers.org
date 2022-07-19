@@ -1,31 +1,56 @@
 * Computer Skills
   
-** Programming Languages
+** Programming
 
-   - Some command of Haskell, LISPs ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]], [[https://github.com/adql/spitter][Racket]]/Scheme),
+   - Languages ::
+
+     Some command of Haskell, LISPs ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]], [[https://github.com/adql/spitter][Racket]]/Scheme),
      Python, JavaScript; basic acquaintance with Java, C/++ and
      others.
-   - Some experience in creative computation ([[https://openprocessing.org/user/28888][Processing/P5.js]],
-     /[[https://github.com/adql/nature-of-code-cw][The Nature of Code]]/, SuperCollider, Extempore).
-   - Basic command of data science practices with Python and R.
-   - Proficiency in HTML and CSS.
+
+     Proficiency in HTML and CSS.
+
+   - Frameworks ::
+
+     Experience with static website generators (Hugo, Pelican).
+
+     Some acquaintance with React.
+
+     Experience in creative computation ([[https://openprocessing.org/user/28888][Processing/P5.js]], /[[https://github.com/adql/nature-of-code-cw][The Nature
+     of Code]]/, SuperCollider, Extempore).
+
+     Basic command of data science practices with Python and R.
 
 ** Theory
 
-   - General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming and algorithms.
-   - Basic knowledge in machine learning and statistics.
+   -   ::
+
+     General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming and algorithms.
+     - (Currently) main focus on functional programming and strong
+       typing
+     - Experience with object-oriented programming
+
+     Basic knowledge in machine learning and statistics.
 
 ** CMS and Databases
 
-   - Experience with static website generators (Hugo, Pelican).
-   - WordPress as user and administrator.
-   - Basic acquaintance with SQL.
-   - Library databases (work experience at the Library of the Haifa
+   -   ::
+
+     WordPress as user and administrator.
+
+     Basic acquaintance with SQL.
+
+     Library databases (work experience at the Library of the Haifa
      University).
    
 ** Productivity and Tools
 
-   - Git(hub).
-   - GNU Emacs + Emacs Lisp; org-mode.
-   - Some command of LaTeX.
-   - Google Docs, LibreOffice, Microsoft Office.
+   -   ::
+
+     Git(hub).
+
+     GNU Emacs + Emacs Lisp; org mode.
+
+     Some command of LaTeX.
+
+     Google Docs, LibreOffice, Microsoft Office.
