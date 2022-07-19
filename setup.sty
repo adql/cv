@@ -15,13 +15,15 @@
 %% Styling lists
 \usepackage{enumitem}
 \setlist{noitemsep,itemsep=0.5em}
-\setlist[description]{leftmargin=5cm, style=nextline}
+\setlist[description]{style=nextline, font=\color{description-color}, leftmargin=5cm, parsep=0.3em, itemsep=0cm}
+\setlist[itemize]{left=0.2cm, parsep=0cm, itemsep=0cm, topsep=0cm}
 
 %% Defining colors
 \usepackage{xcolor}
 \definecolor{text-color}{gray}{0.3}
 \definecolor{url-color}{rgb}{0.2,0.3,0.7}
 \definecolor{section-color}{rgb}{0.2,0.6,0.1}
+\definecolor{description-color}{rgb}{0.45,0.45,0.47}
 
 \usepackage{etoolbox}
 \makeatletter
