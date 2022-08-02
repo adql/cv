@@ -4,7 +4,7 @@
 
    - Languages ::
 
-     Some command of Haskell/[[https://github.com/adql/purelife][PureScript]], LISPs ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]],
+     Some command of Haskell/[[https://github.com/adql/purelife][PureScript]], Lisps ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]],
      [[https://github.com/adql/spitter][Racket]]/Scheme), Python, JavaScript; basic acquaintance with Java,
      C/++ and others.
 
