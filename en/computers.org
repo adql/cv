@@ -4,9 +4,9 @@
 
    - Languages ::
 
-     Some command of Haskell, LISPs ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]], [[https://github.com/adql/spitter][Racket]]/Scheme),
-     Python, JavaScript; basic acquaintance with Java, C/++ and
-     others.
+     Some command of Haskell/[[https://github.com/adql/purelife][PureScript]], LISPs ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]],
+     [[https://github.com/adql/spitter][Racket]]/Scheme), Python, JavaScript; basic acquaintance with Java,
+     C/++ and others.
 
      Proficiency in HTML and CSS.
 
