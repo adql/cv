@@ -7,7 +7,7 @@
 #+SETUPFILE: setup-latex.org
 
 # Select whether to include personal info section
-#+INCLUDE: "info.org"
+# #+INCLUDE: "info.org"
 
 # Select sections and order to include
 

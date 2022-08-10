@@ -2,7 +2,7 @@
 
 #+LATEX_COMPILER: xelatex
 
-#+OPTIONS: num:nil toc:nil author:nil date:nil
+#+OPTIONS: num:nil toc:nil date:nil
 
 #+LATEX_CLASS: article
 #+LATEX_CLASS_OPTIONS: [11pt,a4paper]
