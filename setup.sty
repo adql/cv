@@ -15,8 +15,21 @@
 %% Styling lists
 \usepackage{enumitem}
 \setlist{noitemsep,itemsep=0.5em}
-\setlist[description]{style=nextline, font=\color{description-color}, leftmargin=5cm, parsep=0.3em, itemsep=0cm}
-\setlist[itemize]{left=0.2cm, parsep=0cm, itemsep=0cm, topsep=0cm}
+\setlist[description]{
+  style=nextline,
+  align=right,
+  labelsep=1.2em,
+  leftmargin=5cm,
+  parsep=0.3em,
+  itemsep=0cm,
+  font=\color{description-color}
+}
+\setlist[itemize]{
+  left=0.1cm .. 0.5cm,
+  parsep=0cm,
+  itemsep=0cm,
+  topsep=0cm
+}
 
 %% Defining colors
 \usepackage{xcolor}
