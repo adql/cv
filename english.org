@@ -11,11 +11,7 @@
 
 # Select sections and order to include
 
+#+INCLUDE: "en/computers.org"
 #+INCLUDE: "en/academic.org"
 #+INCLUDE: "en/artistic.org"
-#+INCLUDE: "en/computers.org"
 #+INCLUDE: "en/languages.org"
-# #+INCLUDE: "en/work-experience.org"
-# #+INCLUDE: "en/computers-short.org"
-# #+INCLUDE: "en/activities.org"
-
