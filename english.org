@@ -3,7 +3,7 @@
 #+AUTHOR: Amir Dekel
 
 # Choose setup file:
-# #+SETUPFILE: setup-md-website.org
+# #+SETUPFILE: setup-md.org
 #+SETUPFILE: setup-latex.org
 
 # Select whether to include personal info section
