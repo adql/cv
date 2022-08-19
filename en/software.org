@@ -1,56 +1,43 @@
-* Computer Skills
+* Software Skills
   
-** Programming
+** Programming Languages
 
-   - Languages ::
+   - Working proficiency :: Haskell, [[https://github.com/adql/purelife][PureScript]] · Lisps ([[https://github.com/adql/org-roam-kasten][Emacs]],
+     Scheme) · HTML, CSS
 
-     Some command of Haskell/[[https://github.com/adql/purelife][PureScript]], Lisps ([[https://github.com/adql/cjube][Clojure]], [[https://github.com/adql/org-roam-kasten][Emacs]],
-     [[https://github.com/adql/spitter][Racket]]/Scheme), Python, JavaScript; basic acquaintance with Java,
-     C/++ and others.
+   - Can throw some code :: TypeScript, JavaScript · Python · [[https://github.com/adql/cjube][Clojure]]
+     · [[https://github.com/adql/spitter][Racket]] · LaTeX
 
-     Proficiency in HTML and CSS.
+   - Basic acquaintance :: Java, C, C++, R
+   
+** Frameworks
 
-   - Frameworks ::
+   - Working proficiency :: Static website generators (Hugo, Pelican)
+     · [[https://github.com/adql/purelife][React]] (with PureScript) · Creative coding ([[https://openprocessing.org/user/28888][Processing]], [[https://github.com/adql/nature-of-code-cw][p5.js]])
 
-     Experience with static website generators (Hugo, Pelican).
-
-     Some acquaintance with React.
-
-     Experience in creative computation ([[https://openprocessing.org/user/28888][Processing/P5.js]], /[[https://github.com/adql/nature-of-code-cw][The Nature
-     of Code]]/, SuperCollider, Extempore).
-
-     Basic command of data science practices with Python and R.
-
-** Theory
-
-   -   ::
-
-     General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming and algorithms.
-     - (Currently) main focus on functional programming and strong
-       typing
-     - Experience with object-oriented programming
-
-     Basic knowledge in machine learning and statistics.
+   - Basic acquaintance :: data science practices with Python and R
 
 ** CMS and Databases
 
-   -   ::
+   - WordPress as user and administrator.
 
-     WordPress as user and administrator.
+   - Basic acquaintance with SQL.
 
-     Basic acquaintance with SQL.
-
-     Library databases (work experience at the Library of the Haifa
+   - Library databases (work experience at the Library of the Haifa
      University).
    
 ** Productivity and Tools
 
-   -   ::
+   - Working proficiency :: Git(hub) · GNU Emacs(-Lisp), org mode
 
-     Git(hub).
+   - Some acquaintance :: LaTeX
 
-     GNU Emacs + Emacs Lisp; org mode.
+** Theory
 
-     Some command of LaTeX.
+   - General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming and algorithms.
+     - (Currently) main focus on functional programming and strong
+       typing
+     - Experience with object-oriented programming
 
-     Google Docs, LibreOffice, Microsoft Office.
+   - Basic knowledge in machine learning and statistics.
+
