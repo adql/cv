@@ -2,15 +2,9 @@
 
 \usepackage[hscale=0.75, vscale=0.8]{geometry}
 
-
 \usepackage{fontspec}
 \setmainfont[Ligatures=TeX]{Linux Libertine}
 \setsansfont[Ligatures=TeX]{Linux Biolinum}
-
-%% %% Setting fonts
-%% \renewcommand*\rmdefault{ppl}
-%% \renewcommand*\sfdefault{pag}
-%% \renewcommand*{\familydefault}{\sfdefault}
 
 %% Styling lists
 \newcommand\itemleftmargin{5cm}
@@ -46,6 +40,8 @@
 \definecolor{section-color}{rgb}{0.2,0.6,0.1}
 \definecolor{description-color}{rgb}{0.45,0.45,0.47}
 
+%% Change title color (https://tex.stackexchange.com/a/300369/74959)
+%% TODO: use titling instead
 \usepackage{etoolbox}
 \makeatletter
 \patchcmd{\@maketitle}% <cmd>
@@ -67,20 +63,8 @@
 \cfoot{\thepage}
 \renewcommand{\headrulewidth}{0pt}
 
-%% %% Styling headings
-%% \usepackage{sectsty}
-%% \sectionfont{\sffamily\fontseries{b}\fontshape{sc}\fontsize{0.5cm}{0.4cm}\selectfont\sectionrule{2ex}{0pt}{-1ex}{0.5pt}}
-%% \subsectionfont{\sffamily\selectfont\color{section-color}}
-
 %% Styling headings
 \usepackage{titlesec}
-%% \titleformat{\section}{%
-%%   \rmfamily\fontseries{b}%%\fontshape{sc}
-%%   \Large
-%%   %%\fontsize{0.5cm}{0.4cm}
-%%   \selectfont
-%%   \color{section-color}}{}{}{}[\color{text-color}%% \vspace{0.5ex}
-%%   {\titlerule[0.5pt]}]
 \titleformat{\section}{%
   \titlerule\vspace{.8ex}
   \rmfamily\itshape\Large\color{section-color}
