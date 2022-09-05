@@ -40,17 +40,9 @@
 \definecolor{section-color}{rgb}{0.2,0.6,0.1}
 \definecolor{description-color}{rgb}{0.45,0.45,0.47}
 
-%% Change title color (https://tex.stackexchange.com/a/300369/74959)
-%% TODO: use titling instead
-\usepackage{etoolbox}
-\makeatletter
-\patchcmd{\@maketitle}% <cmd>
-  {\@title}% <search>
-  {\color{\@titlecolor}\@title}% <replace>
-  {}{}% <success><failure>
-\newcommand{\@titlecolor}{section-color}
-%% \newcommand{\titlecolor}[1]{\renewcommand{\@titlecolor}{#1}}
-\makeatother
+%% Change title color
+\usepackage{titling}
+\pretitle{\begin{center}\LARGE\color{section-color}}
 
 %% Setting default color and links styling
 \color{text-color}
