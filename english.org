@@ -1,6 +1,5 @@
-#+TITLE: Curriculum Vitæ
+#+TITLE: Amir Dekel
 #+LANGUAGE: en
-#+AUTHOR: Amir Dekel
 
 # Choose setup file:
 # #+SETUPFILE: setup-md.org
