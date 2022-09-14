@@ -12,6 +12,8 @@
 
 # Select sections and order to include
 
+#+INCLUDE: "en/statement.org"
+
 #+INCLUDE: "en/software.org"
 #+INCLUDE: "en/academic.org"
 #+INCLUDE: "en/artistic.org"

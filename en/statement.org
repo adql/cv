@@ -1,0 +1,9 @@
+#+LATEX: \begin{center}
+
+A philosopher interested in functional typed programming. Or the other
+way around.
+
+I enjoy Haskell, Lisps, Emacs, building small projects and thinking
+out loud.
+
+#+LATEX: \end{center}
