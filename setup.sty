@@ -9,6 +9,8 @@
 \setmainfont[Ligatures=TeX]{Linux Libertine}
 \setsansfont[Ligatures=TeX]{Linux Biolinum}
 
+\renewcommand{\familydefault}{\sfdefault}
+
 %% Styling lists
 \newcommand\itemleftmargin{0.5cm}
 \usepackage{enumitem}
@@ -19,7 +21,7 @@
 \setlist[description]{
   leftmargin=\itemleftmargin,
   labelsep=1em,
-  font=\color{description-color}
+  font=\rmfamily
 }
 \setlist[itemize]{
   left=0pt .. \itemleftmargin
@@ -34,12 +36,12 @@
 \definecolor{text-color}{gray}{0.3}
 \definecolor{url-color}{rgb}{0.2,0.3,0.7}
 \definecolor{section-color}{rgb}{0.2,0.6,0.1}
-\definecolor{description-color}{rgb}{0.45,0.45,0.47}
+\definecolor{subsection-color}{rgb}{0.45,0.45,0.47}
 
 %% Styling the title
 \usepackage{titling}
 \setlength{\droptitle}{-2.5cm}
-\pretitle{\begin{center}\LARGE\color{section-color}}
+\pretitle{\begin{center}\huge\color{section-color}\rmfamily}
 \preauthor{}\postauthor{}\predate{}\postdate{}
 
 %% Setting default color and links styling
@@ -57,9 +59,9 @@
 \usepackage{titlesec}
 \titleformat{\section}{%
   \titlerule\vspace{.8ex}
-  \rmfamily\itshape\Large\color{section-color}
+  \rmfamily\itshape\LARGE\color{section-color}
 }{}{}{}
-\titleformat*{\subsection}{\sffamily\fontseries{b}\selectfont}
+\titleformat*{\subsection}{\rmfamily\scshape\large\color{subsection-color}}
 \newcommand{\sectionbreak}{%
   \addpenalty{-1000}%
 }
