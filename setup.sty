@@ -1,15 +1,11 @@
 %% Setup file for LaTeX export of the CV.
 
+\usepackage{shared}
+
 \usepackage[hscale=0.9, vscale=0.8]{geometry}
 
 \usepackage{multicol}
 \setlength{\columnsep}{30pt}
-
-\usepackage{fontspec}
-\setmainfont[Ligatures=TeX]{Linux Libertine}
-\setsansfont[Ligatures=TeX]{Linux Biolinum}
-
-\renewcommand{\familydefault}{\sfdefault}
 
 %% Styling lists
 \newcommand\itemleftmargin{0.5cm}
@@ -32,10 +28,6 @@
 }
 
 %% Defining colors
-\usepackage{xcolor}
-\definecolor{text-color}{gray}{0.3}
-\definecolor{url-color}{rgb}{0.2,0.3,0.7}
-\definecolor{section-color}{rgb}{0.2,0.6,0.1}
 \definecolor{subsection-color}{rgb}{0.45,0.45,0.47}
 
 %% Styling the title
@@ -43,10 +35,6 @@
 \setlength{\droptitle}{-2.5cm}
 \pretitle{\begin{center}\huge\color{section-color}\rmfamily}
 \preauthor{}\postauthor{}\predate{}\postdate{}
-
-%% Setting default color and links styling
-\color{text-color}
-\hypersetup{pdfborder={0 0 0 [1 0]}, colorlinks=true, urlcolor=url-color}
 
 %% Styling page
 \usepackage{fancyhdr}

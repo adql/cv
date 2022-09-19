@@ -1,0 +1,18 @@
+%% Basic setup file
+
+%% Setting fonts
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{Linux Libertine}
+\setsansfont[Ligatures=TeX]{Linux Biolinum}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+%% Defining colors
+\usepackage{xcolor}
+\definecolor{text-color}{gray}{0.3}
+\definecolor{url-color}{rgb}{0.2,0.3,0.7}
+\definecolor{section-color}{rgb}{0.2,0.6,0.1}
+
+%% Setting default color and links styling
+\color{text-color}
+\hypersetup{pdfborder={0 0 0 [1 0]}, colorlinks=true, urlcolor=url-color}
