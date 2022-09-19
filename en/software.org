@@ -35,7 +35,7 @@
 ** Theory
 
    - General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming and algorithms.
-     - (Currently) main focus on functional programming and strong
+     - (Currently) main focus on functional programming and static
        typing
      - Experience with object-oriented programming
 
