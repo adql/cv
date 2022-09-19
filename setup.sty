@@ -1,36 +1,32 @@
 %% Setup file for LaTeX export of the CV.
 
-\usepackage[hscale=0.75, vscale=0.8]{geometry}
+\usepackage[hscale=0.9, vscale=0.8]{geometry}
+
+\usepackage{multicol}
+\setlength{\columnsep}{30pt}
 
 \usepackage{fontspec}
 \setmainfont[Ligatures=TeX]{Linux Libertine}
 \setsansfont[Ligatures=TeX]{Linux Biolinum}
 
 %% Styling lists
-\newcommand\itemleftmargin{5cm}
-
+\newcommand\itemleftmargin{0.5cm}
 \usepackage{enumitem}
 \setlist{
   noitemsep,
-  itemsep=0.5em,
   parsep=0.3em,
-  itemsep=0cm
 }
 \setlist[description]{
-  style=nextline,
-  align=right,
-  labelsep=1.2em,
-  leftmargin=5cm,
+  leftmargin=\itemleftmargin,
+  labelsep=1em,
   font=\color{description-color}
 }
 \setlist[itemize]{
-  label={},
-}
-\setlist[itemize,1]{
-  left=\itemleftmargin .. \itemleftmargin
+  left=0 .. \itemleftmargin
 }
 \setlist[itemize,2]{
-  left=0.5cm .. 0.5cm
+  label={},
+  topsep=0pt
 }
 
 %% Defining colors

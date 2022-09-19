@@ -14,7 +14,11 @@
 
 #+INCLUDE: "en/statement.org"
 
+#+LATEX: \begin{multicols}{2}
+
 #+INCLUDE: "en/software.org"
 #+INCLUDE: "en/academic.org"
 #+INCLUDE: "en/artistic.org"
 #+INCLUDE: "en/languages.org"
+
+#+LATEX: \end{multicols}
