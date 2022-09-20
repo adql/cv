@@ -1,5 +1,8 @@
 auto
 *.pdf
 *.tex
+*.aux
+*.log
+*.out
 exports/
 cv.bundle
