@@ -1,7 +1,7 @@
 ;; -*- mode: emacs-lisp -*-
 
 ;; pandoc-mode local settings file for cover.md
-;; saved on 2022.09.20 08:07
+;; saved on 2022.09.20 11:54
 
 ((mathml)
  (mathjax)
@@ -90,7 +90,7 @@
  (base-header-level)
  (parse-raw)
  (smart)
- (read . "gfm")
+ (read . "markdown")
  (read-lhs)
  (read-extensions
   ("abbreviations")
