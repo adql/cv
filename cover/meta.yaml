@@ -1,0 +1,10 @@
+---
+papersize: a4
+pagestyle: empty
+fontsize: 12pt
+geometry:
+    - top=25mm
+    - left=30mm
+    - right=35mm
+    - bottom=30mm
+---
