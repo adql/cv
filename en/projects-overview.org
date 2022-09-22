@@ -1,0 +1,25 @@
+* Personal projects overview
+
+** Current front-end projects
+
+These are small projects I currently work on. Both are built with
+*PureScript* (Haskell dialect for the web) and *React*, with vanilla
+*CSS*.
+
+- [[https://adql.github.io/spure][Spure]] [[[https://github.com/adql/spure][src]]] Most minimal no-regrets editor (just write, no overview
+  of the text, only very minimal editing); [[https://github.com/adql/spitter][older prototype]] in Racket
+
+- [[https://adql.github.io/purelife/][Purelife]] [[[https://github.com/adql/purelife][src]]]: Conway's Game of Life implementation
+
+** Other projects
+
+- Org Roam Kasten [[[https://github.com/adql/org-roam-kasten][src]]], *Emacs Lisp*: A browser for [[https://www.orgroam.com/][Org-roam]]
+
+- Cjube [[[https://github.com/adql/cjube][src]]], *Clojure*: A basic terminal-based 3x3 Rubik's Cube
+  representation
+
+- Creative coding
+  - [[https://adql.github.io/nature-of-code-cw/][Nature of Code]] [[[https://github.com/adql/nature-of-code-cw][src]]], *JavaScript* + *p5.js*: Coursework for
+    [[https://www.kadenze.com/certificates/verified/EG8ZQTX4][Kadenze course]]
+
+  - Some older *Processing* [[https://openprocessing.org/user/28888][sketches]]
