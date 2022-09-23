@@ -23,5 +23,5 @@
 
 #+LATEX: \end{multicols}
 
-# #+LATEX: \vspace{1em}
+# #+LATEX: \vspace{2em}
 # #+INCLUDE: "en/projects-overview.org"
