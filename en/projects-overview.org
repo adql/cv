@@ -1,4 +1,4 @@
-* Personal projects overview
+* Project Overview
 
 ** Current front-end projects
 
@@ -7,13 +7,15 @@ These are small projects I currently work on. Both are built with
 *CSS*.
 
 - [[https://adql.github.io/spure][Spure]] [[[https://github.com/adql/spure][src]]] Most minimal no-regrets editor (just write, no overview
-  of the text, only very minimal editing); [[https://github.com/adql/spitter][older prototype]] in Racket
+  of the text, only very minimal editing); [[https://github.com/adql/spitter][older prototype]] in *Racket*
 
 - [[https://adql.github.io/purelife/][Purelife]] [[[https://github.com/adql/purelife][src]]]: Conway's Game of Life implementation
 
 ** Other projects
 
 - Org Roam Kasten [[[https://github.com/adql/org-roam-kasten][src]]], *Emacs Lisp*: A browser for [[https://www.orgroam.com/][Org-roam]]
+
+- This CV is custom-made with *LaTeX* with *Org-mode* workflow [[[https://github.com/adql/cv][src]]]
 
 - Cjube [[[https://github.com/adql/cjube][src]]], *Clojure*: A basic terminal-based 3x3 Rubik's Cube
   representation
