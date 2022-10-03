@@ -1,6 +1,6 @@
 * Project Overview
 
-** Current front-end projects
+** Current Frontend Projects
 
 These are small projects I currently work on. Both are built with
 *PureScript* (Haskell dialect for the web) and *React*, with vanilla
@@ -11,7 +11,7 @@ These are small projects I currently work on. Both are built with
 
 - [[https://adql.github.io/purelife/][Purelife]] [[[https://github.com/adql/purelife][src]]]: Conway's Game of Life implementation
 
-** Other projects
+** Other Projects
 
 - Org Roam Kasten [[[https://github.com/adql/org-roam-kasten][src]]], *Emacs Lisp*: A browser for [[https://www.orgroam.com/][Org-roam]]
 
