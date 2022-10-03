@@ -17,11 +17,9 @@
 #+LATEX: \begin{multicols}{2}
 
 #+INCLUDE: "en/software.org"
+#+INCLUDE: "en/projects-overview.org"
 #+INCLUDE: "en/academic.org"
 #+INCLUDE: "en/artistic.org"
 #+INCLUDE: "en/languages.org"
 
 #+LATEX: \end{multicols}
-
-# #+LATEX: \vspace{2em}
-# #+INCLUDE: "en/projects-overview.org"
