@@ -13,9 +13,11 @@ These are small projects I currently work on. Both are built with
 
 ** Other Projects
 
+- Moonad [[[https://github.com/adql/Moonad][src]]], *Haskell*: An interpreter for the COW joke language
+
 - Org Roam Kasten [[[https://github.com/adql/org-roam-kasten][src]]], *Emacs Lisp*: A browser for [[https://www.orgroam.com/][Org-roam]]
 
-- This CV is custom-made with *LaTeX* with *Org-mode* workflow [[[https://github.com/adql/cv][src]]]
+- This CV [[[https://github.com/adql/cv][src]]], *LaTeX* with *Org-mode* workflow
 
 - Cjube [[[https://github.com/adql/cjube][src]]], *Clojure*: A basic terminal-based 3x3 Rubik's Cube
   representation
