@@ -7,4 +7,6 @@ geometry:
     - left=30mm
     - right=35mm
     - bottom=30mm
+colorlinks: true
+urlcolor: url-color
 ---

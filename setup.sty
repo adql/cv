@@ -4,6 +4,10 @@
 
 \usepackage[hscale=0.9, vscale=0.8]{geometry}
 
+% Links setting ( should be set in yaml when moving to Pandoc
+% https://github.com/jgm/pandoc/issues/8198 )
+\hypersetup{colorlinks=true, urlcolor=url-color}
+
 \usepackage{multicol}
 \setlength{\columnsep}{30pt}
 
@@ -57,7 +61,6 @@
 \raggedright
 
 \usepackage{pdfpages}
-\usepackage{hyperref}
 \usepackage{microtype}
 
 \usepackage[shortcuts]{extdash}
