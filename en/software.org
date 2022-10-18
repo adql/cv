@@ -12,32 +12,28 @@
    
 ** Frameworks
 
-   - Working proficiency :: Static website generators (Hugo, Pelican)
-     · [[https://github.com/adql/purelife][React]] (with PureScript) · Creative coding ([[https://openprocessing.org/user/28888][Processing]], [[https://github.com/adql/nature-of-code-cw][p5.js]])
+   - Working proficiency :: [[https://github.com/adql/purelife][React]] (with PureScript) · Static website
+     generators (Hakyll, Hugo) · Creative coding ([[https://openprocessing.org/user/28888][Processing]], [[https://github.com/adql/nature-of-code-cw][p5.js]])
 
-   - Basic acquaintance :: data science practices with Python and R
+   - Basic acquaintance :: data science practices with Python and R ·
+     SQL · http
 
-** CMS and Databases
+** Productivity, Tools, Workflows
 
-   - WordPress as user and administrator.
+   - Working proficiency :: Git(hub) · GNU Emacs(-Lisp) + org
+     mode · Linux
 
-   - Basic acquaintance with SQL.
-
-   - Library databases (work experience at the Library of the Haifa
-     University).
-   
-** Productivity and Tools
-
-   - Working proficiency :: Git(hub) · GNU Emacs(-Lisp), org mode
-
-   - Some acquaintance :: LaTeX
+   - Some acquaintance :: LaTeX · GNU Make · bash · npm
 
 ** Theory
 
-   - General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming and algorithms.
+   - General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming, algorithms
+     and data structures
      - (Currently) main focus on functional programming and static
        typing
      - Experience with object-oriented programming
+
+   - Basic knowledge in networking
 
    - Basic knowledge in machine learning and statistics.
 
