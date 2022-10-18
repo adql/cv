@@ -48,11 +48,13 @@
 \renewcommand{\headrulewidth}{0pt}
 
 %% Styling headings
+\newcommand{\textwithrule}[1]{%
+  #1\color{text-color}\hspace{0.3ex}\hrulefill
+}
 \usepackage{titlesec}
 \titleformat{\section}{%
-  \titlerule\vspace{.8ex}
   \rmfamily\itshape\LARGE\color{section-color}
-}{}{}{}
+}{}{}{\textwithrule}
 \titleformat*{\subsection}{\rmfamily\scshape\large\color{subsection-color}}
 \newcommand{\sectionbreak}{%
   \addpenalty{-1000}%
