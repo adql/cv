@@ -1,17 +1,10 @@
-* Project Overview
+* Projects (selection)
 
-** Current Frontend Projects
+→ See [[https://amirdekel.com/coding.html][complete overview including contributions]] ←
 
-These are small projects I currently work on. Both are built with
-*PureScript* (Haskell dialect for the web) and *React*, with vanilla
-*CSS*.
-
-- [[https://adql.github.io/spure][Spure]] [[[https://github.com/adql/spure][src]]] Most minimal no-regrets editor (just write, no overview
-  of the text, only very minimal editing); [[https://github.com/adql/spitter][older prototype]] in *Racket*
-
-- [[https://adql.github.io/purelife/][Purelife]] [[[https://github.com/adql/purelife][src]]]: Conway's Game of Life implementation
-
-** Other Projects
+- [[https://adql.github.io/spure][Spure]] [[[https://github.com/adql/spure][src]]], *PureScript + React*: Most minimal no-regrets editor
+  (text is mostly hidden, only very minimal editing); [[https://github.com/adql/spitter][older prototype]]
+  in *Racket*
 
 - Moonad [[[https://github.com/adql/Moonad][src]]], *Haskell*: An interpreter for the COW joke language
 
@@ -19,11 +12,4 @@ These are small projects I currently work on. Both are built with
 
 - This CV [[[https://github.com/adql/cv][src]]], *LaTeX* with *Org-mode* workflow
 
-- Cjube [[[https://github.com/adql/cjube][src]]], *Clojure*: A basic terminal-based 3x3 Rubik's Cube
-  representation
-
-- Creative coding
-  - [[https://adql.github.io/nature-of-code-cw/][Nature of Code]] [[[https://github.com/adql/nature-of-code-cw][src]]], *JavaScript* + *p5.js*: Coursework for
-    [[https://www.kadenze.com/certificates/verified/EG8ZQTX4][Kadenze course]]
-
-  - Some older *Processing* [[https://openprocessing.org/user/28888][sketches]]
+- Some old creative coding *Processing* [[https://openprocessing.org/user/28888][sketches]]
