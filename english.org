@@ -20,6 +20,7 @@
 #+LATEX: \begin{multicols}{2}
 
 #+INCLUDE: "en/software.org"
+# #+LATEX: \vspace*{2cm}\columnbreak
 #+INCLUDE: "en/projects-overview.org"
 #+INCLUDE: "en/academic.org"
 #+INCLUDE: "en/artistic.org"
