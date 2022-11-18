@@ -2,11 +2,12 @@
 
 → See [[https://amirdekel.com/coding.html][complete overview including contributions]] ←
 
+- FakeWorld [[[https://github.com/adql/fakeworld/][src]]] (/wip/), *Haskell*: RealWorld implementation with a
+  twist
+
 - [[https://adql.github.io/spure][Spure]] [[[https://github.com/adql/spure][src]]], *PureScript + React*: Most minimal no-regrets editor
   (text is mostly hidden, only very minimal editing); [[https://github.com/adql/spitter][older prototype]]
   in *Racket*
-
-- Moonad [[[https://github.com/adql/Moonad][src]]], *Haskell*: An interpreter for the COW joke language
 
 - Org Roam Kasten [[[https://github.com/adql/org-roam-kasten][src]]], *Emacs Lisp*: A browser for [[https://www.orgroam.com/][Org-roam]]
 
