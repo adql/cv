@@ -8,7 +8,7 @@
    - Can throw some code :: TypeScript, JavaScript · Python · [[https://github.com/adql/cjube][Clojure]]
      · [[https://github.com/adql/spitter][Racket]] · LaTeX
 
-   - Basic acquaintance :: Java, C, C++, R
+   - Basic acquaintance :: Scala, Java, C, C++, R
    
 ** Frameworks
 
