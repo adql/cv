@@ -1,9 +1,0 @@
-#+ADDRESS:     Pleasant Street
-#+EMAIL:       some.address@not.google.com
-#+MOBILE:      
-#+BIRTHDATE:   
-#+BIRTHPLACE:  
-#+NATIONALITY: 
-
-# Defined directly in LaTeX since it's called directly in info.org
-#+LATEX: \newcommand{\myphoto}{photo.jpg}

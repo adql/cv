@@ -1,1 +1,0 @@
-#+OPTIONS: timestamp:t author:nil creator:nil num:nil toc:1
