@@ -2,12 +2,6 @@
 
 \usepackage{shared}
 
-\usepackage[hscale=0.9, vscale=0.8]{geometry}
-
-% Links setting ( should be set in yaml when moving to Pandoc
-% https://github.com/jgm/pandoc/issues/8198 )
-\hypersetup{colorlinks=true, urlcolor=url-color}
-
 \usepackage{multicol}
 \setlength{\columnsep}{30pt}
 
@@ -30,6 +24,9 @@
   label={},
   topsep=0pt
 }
+%% Disable pandoc's tightlist
+%% https://github.com/jgm/pandoc/issues/2383#issuecomment-140453842
+\let\tightlist\relax
 
 %% Defining colors
 \definecolor{subsection-color}{rgb}{0.45,0.45,0.47}
@@ -69,3 +66,20 @@
 \usepackage{microtype}
 
 \usepackage[shortcuts]{extdash}
+
+%% Create one-line info after the author
+
+\usepackage{fontawesome5}
+
+\renewcommand{\maketitlehookc}{%
+  \vspace{-0.5em}
+  \hspace{\stretch{2}}
+  \faGithub\hspace{0.2em}\href{https://github.com/adql/}{/adql}
+  \hfill
+  \faLinkedin\hspace{0.2em}\href{https://www.linkedin.com/in/amiramir/}{/amiramir}
+  \hfill
+  \faHome\hspace{0.2em}\href{https://amirdekel.com/}{amirdekel.com}
+  \hfill
+  \faLocationArrow\hspace{0.2em}Berlin
+  \hspace{\stretch{2}}
+}

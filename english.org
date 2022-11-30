@@ -1,14 +1,6 @@
+# -*- eval: (pandoc-mode); -*-
 #+TITLE: Amir Dekel
 #+LANGUAGE: en
-#+AUTHOR: Amir Dekel
-
-# Choose setup file:
-# #+SETUPFILE: setup-md.org
-#+SETUPFILE: setup-latex.org
-
-# Select whether to include personal info section
-# #+INCLUDE: "info.org"
-#+LATEX_HEADER: \usepackage{info-one-line}
 
 # Select sections and order to include
 

@@ -1,0 +1,11 @@
+---
+papersize: a4
+pagestyle: empty
+fontsize: 11pt
+geometry:
+  - hscale=0.9
+  - vscale=0.8
+colorlinks: true
+urlcolor: url-color
+indent: true
+---
