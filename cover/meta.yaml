@@ -2,6 +2,12 @@
 papersize: a4
 pagestyle: empty
 fontsize: 12pt
+mainfont: Linux Libertine
+mainfontoptions:
+  - Scale=1
+sansfont: Linux Biolinum
+sansfontoptions:
+  - Scale=1
 geometry:
     - top=25mm
     - left=30mm
