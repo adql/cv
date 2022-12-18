@@ -5,7 +5,7 @@
    - Working proficiency :: [[https://github.com/adql/Moonad][Haskell]], [[https://github.com/adql/purelife][PureScript]] · Lisps ([[https://github.com/adql/org-roam-kasten][Emacs]],
      Scheme) · HTML, CSS
 
-   - Can throw some code :: Scala, TypeScript, JavaScript · Python ·
+   - Can throw some code :: Scala · TypeScript, JavaScript · Python ·
      [[https://github.com/adql/cjube][Clojure]] · [[https://github.com/adql/spitter][Racket]] · LaTeX
 
    - Basic acquaintance :: Java, C, C++, R
