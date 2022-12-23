@@ -23,7 +23,7 @@
    - Working proficiency :: Git(hub) · GNU Emacs(-Lisp) + org
      mode · Linux
 
-   - Some acquaintance :: LaTeX · GNU Make · bash · npm
+   - Some acquaintance :: Docker · npm · GNU Make · bash · LaTeX
 
 ** Theory
 
