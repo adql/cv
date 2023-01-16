@@ -6,7 +6,7 @@
      Scheme) · HTML, CSS
 
    - Can throw some code :: Scala · TypeScript, JavaScript · Python ·
-     [[https://github.com/adql/cjube][Clojure]] · [[https://github.com/adql/spitter][Racket]] · LaTeX
+     [[https://github.com/adql/cjube][Clojure]] · [[https://github.com/adql/spitter][Racket]] · LaTeX · SQL
 
    - Basic acquaintance :: Java, C, C++, R
    
@@ -15,8 +15,8 @@
    - Working proficiency :: [[https://github.com/adql/spure][React]] (with PureScript) · Static website
      generators (Hakyll, Hugo) · Creative coding ([[https://openprocessing.org/user/28888][Processing]], [[https://github.com/adql/nature-of-code-cw][p5.js]])
 
-   - Basic acquaintance :: data science practices with Python and R ·
-     SQL · HTTP
+   - Basic acquaintance :: PostgreSQL · data science practices with
+     Python and R · HTTP
 
 ** Productivity, Tools, Workflows
 
