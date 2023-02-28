@@ -10,7 +10,8 @@ sansfontoptions:
   - Scale=1
 geometry:
   - hscale=0.9
-  - vscale=0.8
+  - vscale=0.85
+  - vcentering
 colorlinks: true
 urlcolor: url-color
 indent: true
