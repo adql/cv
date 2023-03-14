@@ -28,12 +28,12 @@
    
 ** Theory
 
-   - General acquaintance with [[https://github.com/adql/sicp][paradigms]] of programming, algorithms
+   - General acquaintance with paradigms of programming, algorithms
      and data structures
-     - (Currently) main focus on functional programming and static
-       typing
-     - Experience with object-oriented programming
+     - Main focus on statically typed functional programming
 
+   - Some acquaintance with category theory
+       
    - Basic knowledge in networking
 
    - Basic knowledge in machine learning and statistics.
