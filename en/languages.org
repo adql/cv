@@ -1,8 +1,9 @@
 * Languages
 
-  - English :: Very high level, written and spoken
-  - German :: Very high level, written and spoken
+  - English :: Very high proficiency
+  - German :: High proficiency
   - Hebrew :: Native
+  - Yiddish :: Intermediate proficiency
+  - Romanian :: Intermediate proficiency
   - Latin :: Basic proficiency
   - Arabic :: Basic proficiency
-  - Romanian :: Basic proficiency
